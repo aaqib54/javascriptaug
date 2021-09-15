@@ -1,0 +1,67 @@
+#header{
+    background-color: rgb(231, 231, 89);
+    height:80px;px;
+    width: 100%;
+    
+}
+a{
+    text-decoration: none;
+}
+body{
+    margin: auto;
+    
+}
+#logo-main{
+    height: 70px;
+    width:70px;
+    background-color: white; 
+    border-radius: 50%;
+    margin-left: 8%;
+    display: inline-block;
+    
+}
+#logo{
+    color: rgb(231, 231, 89);
+    margin: 20%;
+}
+.socialicon{
+    height: 50px;
+    width: 50px;
+
+
+}
+.social{
+    display: inline-block;
+    float: right;
+    margin-right: 3%;
+}
+#main{
+    width: 80%;
+    margin-left:10%;
+    margin-top: 2% ;
+}
+#main > h1{
+    color: rgb(231, 231, 89);
+}
+#filter{
+    height: 600px;
+    width: 25%;
+    border: 2px solid black;
+    float: left;
+
+}
+#content-main{
+    float: left;
+    margin-left:4%;
+    width: 70%;
+    
+
+}
+.content{
+    height: 300px;
+    width: 100%; 
+    border: 2px solid black;
+    margin-top:2%;
+
+
+}

@@ -1,0 +1,29 @@
+#first{
+    height: 200px;
+    background-color: lightgreen;
+}
+#second{
+    height: 200px;
+    background-color: rgba(247, 152, 10, 0.253);
+}
+#third{
+    height: 200px;
+    background-color: rgb(175, 174, 248);
+}
+#fourth{
+    height: 200px;
+    background-color: rgb(221, 97, 139);
+}
+#fifth{
+    height: 200px;
+    background-color: rgb(168, 8, 8);
+}
+#sixth{
+    height: 200px;
+    background-color: rgb(158, 38, 214);
+}
+
+.btn-danger{
+    background-color: aqua; !important   
+}
+    

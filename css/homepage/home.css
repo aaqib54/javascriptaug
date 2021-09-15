@@ -1,0 +1,163 @@
+body{
+    margin: auto;
+}
+
+
+#search{
+    height: 400px;
+    border: 5px solid green;
+    background-image: url(./dan-gold-E6HjQaB7UEA-unsplash.jpg);
+    /* background-size: cover; */
+    background-size: 100% 400px;
+}
+/* #QuikSearch{
+    height: 500px;
+    border: 5px solid rgb(212, 6, 6);
+    
+} */
+
+
+a{
+    text-decoration: none;
+}
+.brand{
+    display: inline-block;
+    margin-left: 5px;
+    color: whitesmoke;
+    font: size 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.social{
+    display: inline-block;
+    margin-left: 70%;
+}
+.socialicon{
+    height: 50px;
+    width: 50px;
+}
+
+#logo{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    text-align: center;
+    margin-left: 40%;
+    margin-top: 2%;
+    border-radius: 50%;
+    font-size:30px;
+    color: red;
+    
+
+}
+#logo>span{
+    margin-top:3%;
+    margin-left: -30px;
+    position: absolute; 
+}
+#heading{
+    color:white;
+    margin: auto;
+    margin-top:1%;
+    font-size: 30px;
+    background-color:skyblue;
+    width: 38%;
+
+}
+#dropdown{
+    height: 45px;
+    width: 55%;
+    /* border: 2px solid white; */
+    margin-top: 2%;
+    margin-left: 25%;
+}
+select{
+    height: 45px;
+    width:40%;
+    font-size:18px;
+}
+#restdrop{
+    width: 50%;
+    margin-left: 1%;
+
+}
+#QuikSearch{
+    width: 80%;
+    margin-left: 8%;
+    margin-top: 2%;
+}
+#QuickSearchHeading{
+    color: #192f60;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: block;
+
+}
+#QuickSearchSubHeading{
+    color: gray ;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times';
+    margin-top: 15 px;
+    position: absolute;
+
+}
+.mainTileContainer{
+    margin-top:5%;
+}
+.TileContainer{
+    height: 180px;
+    border: 2px groove gray ;
+    width: 30%;
+    display: inline-block;
+    margin-left: 1%;
+    margin-top: 2%;
+
+}
+.tileComponet1{
+    width: 46%;
+    float: left;
+    
+
+}
+.tileComponet1 > img{
+    height: 180px;
+    width: 100%;
+}
+
+
+.tileComponet2{
+    width: 46%;
+    float: left;
+    margin-left: 10px;
+    margin-top: 20px;
+     
+
+}
+.componentHeading{
+    color: #192f60;
+    font-size:18px;
+    font-weight: bold ;
+    
+
+}
+.componentSubHeading{
+    color: gray;
+    font-size: 18px;
+    
+}
+
+
+
+
+#footer{
+    text-align: center;
+    font-size:30px;
+
+}
+span{
+    color: red;
+}
+
+
+
